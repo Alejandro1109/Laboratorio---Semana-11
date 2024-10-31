@@ -1,0 +1,6 @@
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 1\obj\Debug\Ejercicio 1.pdb

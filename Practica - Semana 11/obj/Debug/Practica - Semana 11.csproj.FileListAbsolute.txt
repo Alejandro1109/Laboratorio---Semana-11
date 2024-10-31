@@ -1,0 +1,12 @@
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\New folder\Practica - Semana 11\bin\Debug\Practica - Semana 11.exe
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\New folder\Practica - Semana 11\bin\Debug\Practica - Semana 11.pdb
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\New folder\Practica - Semana 11\obj\Debug\Practica - Semana 11.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\New folder\Practica - Semana 11\obj\Debug\Practica - Semana 11.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\New folder\Practica - Semana 11\obj\Debug\Practica - Semana 11.exe
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\New folder\Practica - Semana 11\obj\Debug\Practica - Semana 11.pdb
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Practica - Semana 11\obj\Debug\Practica - Semana 11.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Practica - Semana 11\obj\Debug\Practica - Semana 11.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Practica - Semana 11\obj\Debug\Practica - Semana 11.exe
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Practica - Semana 11\obj\Debug\Practica - Semana 11.pdb
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Practica - Semana 11\bin\Debug\Practica - Semana 11.exe
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Practica - Semana 11\bin\Debug\Practica - Semana 11.pdb

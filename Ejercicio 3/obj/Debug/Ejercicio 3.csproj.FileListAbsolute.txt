@@ -1,0 +1,12 @@
+C:\Users\Alejandro\source\repos\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\Alejandro\source\repos\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\Alejandro\source\repos\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\Alejandro\source\repos\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\Alejandro\Desktop\Ciclo 2\Fundamentos de programacion\Code\Semana 11 - Practica\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
